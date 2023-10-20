@@ -1,1 +1,1 @@
-#I have completed designing website with digital portfolio using html css and javascript
+I have completed designing website for digital portfolio using HTML, CSS and JAVASCRIPT.
